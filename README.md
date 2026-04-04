@@ -1,4 +1,4 @@
-# Hey, I'm Yash 
+# Hey, I'm Yash 👋
 
 **Backend-leaning Full-Stack Developer · CS Student · Hackathon Builder**
 
@@ -6,32 +6,35 @@ I build production-grade systems that matter — AI-powered applications, secure
 
 ---
 
-## 💻Tech Stack
+## 💻 Tech Stack
 
 **Core Languages**
-![Python](https://img.shields.io/badge/Python-3572A5?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=333)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript"/>
 
 **Backend & Infrastructure**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" title="FastAPI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jsonwebtokens/jsonwebtokens-original.svg" width="40" height="40" alt="JWT" title="JWT"/>
 
 **Frontend & Deployment**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=000)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel" title="Vercel"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
 
 **AI & APIs**
-![Claude API](https://img.shields.io/badge/Claude_API-D4A574?style=for-the-badge)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" width="40" height="40" alt="OpenAI" title="OpenAI"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="40" height="40" alt="Gemini API" title="Gemini API"/>
 
 ---
 
-##  Featured Project
+## 🔨 Featured Projects
 
 ### 🔐 [SecureCloud](https://github.com/Yash07-pixel/securecloud)
 **Production-Grade Encrypted File Storage** | Full-Stack Application
@@ -48,7 +51,7 @@ I build production-grade systems that matter — AI-powered applications, secure
 
 ---
 
-## 📈 Stats & Activity
+## 📊 Stats & Activity
 
 <div align="center">
 
@@ -60,7 +63,7 @@ I build production-grade systems that matter — AI-powered applications, secure
 
 ---
 
-##  What I'm Into
+## 🎯 What I'm Into
 
 - **System Design** — Building scalable, secure backends that handle real-world constraints
 - **AI Integration** — Leveraging LLMs (Claude, OpenAI) to solve practical problems
@@ -70,23 +73,21 @@ I build production-grade systems that matter — AI-powered applications, secure
 
 ---
 
-##  Open To
+## 🚀 Open To
 
 - **Hackathon collaborations** — Let's build something cool in 24-48 hours
 - **Interesting problems** — Complex systems, security challenges, AI applications
 - **Technical discussions** — System design, architecture decisions, best practices
-- **Mentorship** — Happy to discuss full-stack development, security, or project planning
 
 ---
 
-##  Let's Connect
+## 📬 Let's Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-sharma-tech/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yash07-pixel)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yash.ysharma21@gmail.com)
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yash.ysharma21@gmail.com.com)
 
 
 </div>
@@ -95,6 +96,6 @@ I build production-grade systems that matter — AI-powered applications, secure
 
 <div align="center">
 
-###  Always shipping, always learning
+### Always shipping, always learning
 
 </div>
