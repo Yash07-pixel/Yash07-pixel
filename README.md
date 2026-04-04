@@ -9,29 +9,30 @@ I build production-grade systems that matter — AI-powered applications, secure
 ## 💻 Tech Stack
 
 **Core Languages**
-
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" title="Python"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" title="JavaScript"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript" title="TypeScript"/>
-
+</p>
 **Backend & Infrastructure**
-
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40" height="40" alt="FastAPI" title="FastAPI"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB" title="MongoDB"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jsonwebtokens/jsonwebtokens-original.svg" width="40" height="40" alt="JWT" title="JWT"/>
+</p>
 
 **Frontend & Deployment**
-
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" title="React"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" width="40" height="40" alt="Vercel" title="Vercel"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" title="Git"/>
+</p>
 
 **AI & APIs**
-
+<p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openai/openai-original.svg" width="40" height="40" alt="OpenAI" title="OpenAI"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" width="40" height="40" alt="Gemini API" title="Gemini API"/>
-
+</p>
 ---
 
 ## 🔨 Featured Projects
@@ -54,8 +55,6 @@ I build production-grade systems that matter — AI-powered applications, secure
 ## 📊 Stats & Activity
 
 <div align="center">
-
-![Yash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yash07-pixel&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Yash07-pixel&theme=default&hide_border=true)
 
