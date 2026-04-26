@@ -60,17 +60,6 @@ I build production-grade systems that matter — AI-powered applications, secure
 
 **[Try it live →](https://securecloud-app.vercel.app)** | **[Source code →](https://github.com/Yash07-pixel/securecloud)**
 
----
-
-## 📊 Stats & Activity
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Yash07-pixel&theme=default&hide_border=true)
-
-</div>
-
----
 
 ## 🎯 What I'm Into
 
