@@ -2,7 +2,7 @@
 
 **Backend-leaning Full-Stack Developer · CS Student · Hackathon Builder**
 
-I build production-grade systems that matter — AI-powered applications, secure infrastructure, and tools that solve real problems. Passionate about system design, cryptography, and the intersection of elegant code and user experience.
+I build production-grade systems that matter AI-powered applications, secure infrastructure, and tools that solve real problems. Passionate about system design, cryptography, and the intersection of elegant code and user experience.
 
 
 # Tech Stack
