@@ -49,7 +49,7 @@ I build production-grade systems that matter AI-powered applications, secure inf
 
 `AES-256` `FastAPI` `React/Vite` `MongoDB Atlas` `JWT` `Security-First`
 
-*[Try it live →]((https://secure-cloud-tawny.vercel.app/register))* | **[Source code →](https://github.com/Yash07-pixel/securecloud)**
+*[Try it live →](https://secure-cloud-tawny.vercel.app/register)* | **[Source code →](https://github.com/Yash07-pixel/securecloud)**
 
 ---
 
